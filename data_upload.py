@@ -24,7 +24,7 @@ results = client.get("m6dm-c72p")
 storage_client = storage.Client()
 
 # Define your Google Cloud Storage bucket and file path
-file_path = 'gs://msca-bdp-student-gcs/bdp-rideshare-project/rideshare.json'
+file_path = '/bdp-rideshare-project/rideshare.json'
 
 # Convert the JSON object to a JSON string
 json_data = json.dumps(results)
