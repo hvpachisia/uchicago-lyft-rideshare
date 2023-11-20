@@ -12,7 +12,7 @@ client = Socrata("data.cityofchicago.org",
                 username="abeburton@me.com",
                 password="js9@5x#H9@wp2#Y")
 # results is a generator
-results = client.get_all("m6dm-c72p")
+results = client.get_all("m6dm-c72p", year=)
 # select all indices of the generator to make a list of dicts
 result_list = list(itertools.islice(results, 299602996))
 
