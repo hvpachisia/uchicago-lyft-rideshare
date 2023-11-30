@@ -31,7 +31,7 @@ Processed Dataset:
 - More late-night trips were taken post-program
 - Marked increase in the proportion of rides taken at the end of month
 
-### Supervised ML (linear regression)
+### Supervised ML (linear regression with elastic net)
 Showcase the impact of the Lyft program on daily ridership counts within the program area (Hyde Park, Kenwood, Woodlawn) by predicting how behavior would have been without the program (predict counter-factual)
 ![image](https://github.com/abejburton/bdp-rideshare/assets/30920386/def04be5-a3a8-402d-8c87-ed336d158771)
 - There was a clear increase in ridership counts after the program was implemented.
