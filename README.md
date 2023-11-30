@@ -11,7 +11,7 @@ How much did UChicago’s Lyft Ride Program impact ridesharing in Hyde Park and 
 
 ### Data
 Raw Datasets:
-1. Transport Network Providers Ridesharing Dataset (each row is one ride) from 2018-2023 (84.8 GB)
+1. [Transport Network Providers Ridesharing Dataset](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2018-2022-/m6dm-c72p): each row is one ride from 2018-2023 (84.8 GB)
 2. Daily Weather (1 GB)
 
 Processed Dataset:
