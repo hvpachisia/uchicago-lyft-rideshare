@@ -3,13 +3,15 @@ By Abe Burton, Ridhi Purohit, Harsh Vardhan Pachisia, and Rohit Kandala
 
 Repository for Big Data Platforms rideshare project code
 
-Research/Business Question: How much did UChicago’s Lyft Ride Program impact ridesharing in Hyde Park and is it worth continuing?
+### Business/Research Question
+
+How much did UChicago’s Lyft Ride Program impact ridesharing in Hyde Park and is it worth continuing?
 
 ![image](https://github.com/abejburton/bdp-rideshare/assets/30920386/67041b2d-2d5b-4f96-91fd-444b23d2c28b)
 
 ### Data
 Raw Datasets:
-1. Transport Network Providers Ridesharing Dataset (each row is one ride) from 2018-2023 (84.8 GB)
+1. [Transport Network Providers Ridesharing Dataset](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2018-2022-/m6dm-c72p): each row is one ride from 2018-2023 (84.8 GB)
 2. Daily Weather (1 GB)
 
 Processed Dataset:
