@@ -3,7 +3,7 @@ By Abe Burton, Ridhi Purohit, Harsh Vardhan Pachisia, and Rohit Kandala
 
 Repository for Big Data Platforms rideshare project code
 
-### Research/Business Question:
+### Business/Research Question
 
 How much did UChicago’s Lyft Ride Program impact ridesharing in Hyde Park and is it worth continuing?
 
