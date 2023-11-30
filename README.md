@@ -35,14 +35,16 @@ Processed Dataset:
 
 ### Supervised ML (linear regression with elastic net)
 Showcase the impact of the Lyft program on daily ridership counts within the program area (Hyde Park, Kenwood, Woodlawn) by predicting how behavior would have been without the program (predict counter-factual)
+
 ![image](https://github.com/abejburton/bdp-rideshare/assets/30920386/def04be5-a3a8-402d-8c87-ed336d158771)
-- There was a clear increase in ridership counts after the program was implemented.
+
+- There was a clear increase in ridership counts after the program was implemented
 - Usage increase breaks down to about 4 rides per student per month
 
 ### Conclusion
-- More rides are taken later in the evening supporting a safety-motivated hypothesis for Lyft usage.
-- Lyft Ride Smart amplify student habits - similar destinations to campus, shopping, and apartments with higher frequency and more trips taken at night.
-- Rides are not for superfluous spending - they facilitate necessary student trips in a wider range of times with increased safety. This is clarified with our clustering analysis. 
+- More rides are taken later in the evening supporting a safety-motivated hypothesis for Lyft usage
+- Lyft Ride Smart amplify student habits - similar destinations to campus, shopping, and apartments with higher frequency and more trips taken at night
+- Rides are not for superfluous spending - they facilitate necessary student trips in a wider range of times with increased safety. This is clarified with our clustering analysis
 
 
 
