@@ -1,7 +1,5 @@
 # The UChicago Lyft Ride Smart Program: Effects on Ridesharing
-By Harsh Vardhan Pachisia, Abe Burton, Ridhi Purohit,, and Rohit Kandala
-
-Repository for Big Data Platforms rideshare project code
+By Harsh Vardhan Pachisia, Abe Burton, Ridhi Purohit, and Rohit Kandala
 
 ### Business/Research Question
 
